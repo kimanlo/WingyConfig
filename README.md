@@ -1,2 +1,9 @@
-# WingyConfig
-Wingy自定义规则
+# 说明 
+> * 使用坏境：Wingy TF 最新版
+> * 规则有过滤广告、代理、直连……
+> * 支持多线路，请参考修改
+> * *https://raw.githubusercontent.com/kimanlo/WingyConfig/master/default.conf*
+
+# 更新记录
+
+- [2016-10-27] 默认有Direct、Proxy、Reject规则，请参考修改
