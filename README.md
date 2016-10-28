@@ -4,6 +4,9 @@
 > * 支持多线路，请参考修改
 > * *https://raw.githubusercontent.com/kimanlo/WingyConfig/master/default.conf*
 
+
 # 更新记录
 
-- [2016-10-27] 默认有Direct、Proxy、Reject规则，请参考修改
+- [2016-10-28] 完善规则，避免部分网站被误杀（Reject）
+
+- [2016-10-27] 默认有Direct、Proxy、Reject规则
