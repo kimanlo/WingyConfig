@@ -6,6 +6,8 @@
 > [正式版](https://raw.githubusercontent.com/kimanlo/WingyConfig/master/default.conf)      [TestFlight版](https://raw.githubusercontent.com/kimanlo/WingyConfig/master/tf.conf)      [TestFlight申请地址](https://docs.google.com/forms/d/e/1FAIpQLSdz5GXxFneZIQv4xkAcf-kyBycQBaUsn7JtSOuSCkekKB4REg/viewform?c=0&w=1) by Google Docs<br><br>
 > 注：**正式版**在App Store下载 [了解TestFlight项目](http://jingyan.baidu.com/article/63f23628276e1d0209ab3d10.html)
 
+<br><br><br><br>
+
 | 更新记录 | Description |
 | ------| -----------|
 | 2016-11-03 | 完善规则并提供正式版和TestFlight版两个配置 |
