@@ -1,9 +1,9 @@
 # 说明 
-> * 最新更新支持正式版和TestFlight版两个版本，自行选择
-> * 规则有过滤广告、代理、直连
-> * 支持多线路，请参考修改
-> * [自定义配置的详细说明](https://github.com/hellowingy/wingy-announcement/blob/master/CONFIG.md)
-> * [正式版](https://raw.githubusercontent.com/kimanlo/WingyConfig/master/default.conf) [TestFlight版](https://raw.githubusercontent.com/kimanlo/WingyConfig/master/tf.conf)
+> 支持正式版和TestFlight版两个版本，自行选择<br>
+> 规则有过滤广告、代理、直连<br>
+> 支持多线路，请参考修改<br>
+> [自定义配置的详细说明](https://github.com/hellowingy/wingy-announcement/blob/master/CONFIG.md)<br>
+> [正式版](https://raw.githubusercontent.com/kimanlo/WingyConfig/master/default.conf) [TestFlight版](https://raw.githubusercontent.com/kimanlo/WingyConfig/master/tf.conf)
 
 
 # 更新记录
