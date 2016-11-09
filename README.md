@@ -1,6 +1,6 @@
-# 说明
+## 使用说明
 
-> 使用环境：Wingy 正式版  
+> 使用环境：Wingy 正式版或测试版  
 > 规则有过滤广告、代理、直连  
 > 支持多线路，请参考修改  
 > [自定义配置的详细说明](https://github.com/hellowingy/wingy-announcement/blob/master/CONFIG.md)  
@@ -20,3 +20,6 @@
 | 2016-10-29 | 完善规则 |
 | 2016-10-28 | 完善规则 |
 | 2016-10-27 | 默认有Direct、Proxy、Reject规则 |
+
+## 最近计划
+* 增加自定义生成配置
