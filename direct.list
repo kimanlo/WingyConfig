@@ -1,0 +1,28 @@
+  - type: list
+    adapter: direct
+    criteria:
+      - s,localhost
+      - s,apple.com
+      - s,cdn-apple.com
+      - s,apple-mapkit.com
+      - s,icloud.com
+      - s,icloud-content.com
+      - s,itunes.com
+      - s,me.com
+      - s,mzstatic.com
+      - s,crashlytics.com
+      - s,fixer.io
+      - s,markitondemand.com
+      - s,v2ex.co
+      - s,v2ex.com
+      - c,ec4.images-amazon.com
+      - c,g-ec4.images-amazon.com
+  - type: iplist
+    adapter: direct
+    criteria:
+      - 127.0.0.0/8
+      - 192.168.0.0/16
+      - 10.0.0.0/8
+      - 224.0.0.0/8
+      - 169.254.0.0/16
+      - 172.16.0.0/12
