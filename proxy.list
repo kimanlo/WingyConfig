@@ -1,0 +1,34 @@
+  - type: list
+    adapter: shadowsocksproxy
+    criteria:
+      - k,akamai
+      - k,akamaihd
+      - k,apikik
+      - k,appledaily
+      - k,blogspot
+      - k,instagram
+      - k,cdninstagram
+      - k,twitter
+      - k,twimg
+      - k,facebook
+      - k,fbcdn
+      - k,google
+      - k,gstatic
+      - k,github
+      - k,porn
+      - k,tnaflix
+      - k,wikipedia
+      - s,amazon.com
+      - s,amazonaws.com
+      - s,cloudflare.com
+      - s,cloudfront.net
+      - s,ggpht.com
+      - s,gstatic.com
+      - s,tvb.com
+      - s,youtu.be
+      - s,nextmedia.com
+      - s,appledaily.com
+      - s,ytimg.com
+      - s,krxd.net
+      - s,appspot.com
+      - c,dns.v2ex.com
