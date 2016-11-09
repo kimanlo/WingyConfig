@@ -78,6 +78,10 @@
       - c,files.adform.net
       - c,secure-ds.serving-sys.com
       - c,de.as.pptv.com
+      - s,adyun.com
+      - s,70e.com
+      - s,9cp.cn
+      - s,9v.cn
       # Tencent
       - c,adsfile.qq.com
       - c,beacon.qq.com
@@ -91,6 +95,13 @@
       - c,report.qq.com
       - c,tajs.qq.com
       - c,tcss.qq.com
+      - c,lives.l.qq.com
+      - c,livew.l.qq.com
+      - c,mcgi.v.qq.com
+      - c,news.l.qq.com
+      - c,p.l.qq.com
+      - c,t.l.qq.com
+      - c,u.l.qq.com
       # Sina
       - c,ad.sina.com.cn
       - c,adm.leju.sina.com.cn
@@ -145,11 +156,22 @@
       - c,drmcmm.baidu.com
       - c,pos.baidu.com
       - c,tongji.baidu.com
+      - c,dup.baidustatic.com
+      - c,ubmcmm.baidustatic.com
       - c,api.cupid.iqiyi.com
       - c,ckm.iqiyi.com
       - c,data.video.qiyi.com
       - c,meta.video.qiyi.com
       - c,paopao.iqiyi.com
+      # Sohu
+      - c,m.aty.sohu.com
+      - c,mmg.aty.sohu.com
+      - c,agn.aty.sohu.com
+      - c,i.go.sohu.com
+      - c,mb.hd.sohu.com.cn
+      - c,sohu.wrating.com
+      - c,score.my.tv.sohu.com
+      - c,s.go.sohu.com
       # Umeng
       - s,umeng.co
       - s,umeng.com
@@ -162,6 +184,7 @@
       - c,stat.youku.com
       - c,p-log.ykimg.com
       - c,p.l.ykimg.com
+      - c,v2html.atm.youku.com
       - c,ad.api.3g.tudou.com	
       - c,adcontrol.tudou.com
       - c,adplay.tudou.com
