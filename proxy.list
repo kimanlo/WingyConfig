@@ -32,3 +32,11 @@
       - s,krxd.net
       - s,appspot.com
       - c,dns.v2ex.com
+      # Cydia
+      - s,thebigboss.org
+      - s,saurik.com
+      - s,modmyi.com
+      - s,ultrasn0wn.com
+      - s,zodttd.com
+      - s,hackyouriphone.org
+      - s,xarold.com
