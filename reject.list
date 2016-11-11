@@ -177,12 +177,14 @@
       - s,cnzz.com
       # Youku
       - c,ad.api.3g.youku.com
+      - c,atm.youku.com
       - c,lstat.youku.com
       - c,stat.youku.com
       - c,p-log.ykimg.com
       - c,p.l.ykimg.com
       - c,v2html.atm.youku.com
-      - c,ad.api.3g.tudou.com	
+      - c,valf.atm.youku.com
+      - c,ad.api.3g.tudou.com
       - c,adcontrol.tudou.com
       - c,adplay.tudou.com
       - c,iwstat.tudou.com
@@ -203,7 +205,8 @@
       - c,n.mark.letv.com
       # MGTV
       - c,bs.da.hunantv.com
-      - r,log\.+.\.hunantv\.com
+      - c.log.da.hunantv.com
+      - c.log.v2.hunantv.com
       - c,v2.log.hunantv.com
       - c,x.da.hunantv.com
       - c,mp4.res.hunantv.com
