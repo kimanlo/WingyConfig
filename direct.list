@@ -17,6 +17,11 @@
       - s,v2ex.com
       - c,ec4.images-amazon.com
       - c,g-ec4.images-amazon.com
+      - s,alicdn.com
+      - s,aliyun.com
+      - s,tbcdn.cn
+      - s,taobao.com
+      - s,tmall.com
   - type: iplist
     adapter: direct
     criteria:
