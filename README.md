@@ -5,9 +5,9 @@
 支持多线路，请参考修改  
 [自定义配置的详细说明](https://github.com/hellowingy/wingy-announcement/blob/master/CONFIG.md)  
 **[正式版规则](https://raw.githubusercontent.com/kimanlo/WingyConfig/master/default.conf)** ~~[TestFlight版](https://raw.githubusercontent.com/kimanlo/WingyConfig/master/tf.conf)~~  
-> 有问题请[Issues](../../issues)
+有问题请[Issues](../../issues)  
 
-## 提醒
+> **提醒**  
 > App Stroe上有两个版本（紫色和蓝色图标），选择紫色图标，开发者：SMART LIMITED，旧版本蓝色图标将于未来下架。
 > [TestFlight申请地址](https://docs.google.com/forms/d/e/1FAIpQLSdz5GXxFneZIQv4xkAcf-kyBycQBaUsn7JtSOuSCkekKB4REg/viewform?c=0&w=1) [了解TestFlight项目](http://jingyan.baidu.com/article/63f23628276e1d0209ab3d10.html)
 
