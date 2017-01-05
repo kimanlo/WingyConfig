@@ -29,7 +29,7 @@ adapter:
  - id: adapter2
    ...
 rule:
- - type: list
+ - type: iplist
    adapter: adapter1
    ...
  - type: country
@@ -81,6 +81,9 @@ SS代理
    port: 1024
    method: AES-128-CFB
    password: ss_password
+   protocol: origin #可选 origin(无)、verify_sha1(OTA)
+   obfs: origin #可选 origin(无)、http_simple、tls1.2_ticket_auth
+   obfs_param: ""
 ```
 ####Speed
 speed用于选择最快连接成功的线路，
@@ -147,7 +150,7 @@ reject会抛弃网络请求
 >由于iOS不方便多文件，标准格式中的file列表暂时没有被支持
 
 ```
- - type: domainlist
+ - type: iplist
    criteria:
     - 127.0.0.0/8
     - 192.168.0.0/16
